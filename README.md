@@ -115,7 +115,9 @@ haqi = {
 ## `> ping me`
 
 <div align="center">
-
+    
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100018018747203) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23E4405F.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ahmadbaihaqichannel960) 
 [![Instagram](https://img.shields.io/badge/@ahmadbaihaqi_25-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmadbaihaqi_25/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kangsantuy1207-a11y)
 
